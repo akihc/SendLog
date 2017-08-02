@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SendLog.iml" filepath="$PROJECT_DIR$/SendLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acra-4.9.2/acra-4.9.2.iml" filepath="$PROJECT_DIR$/acra-4.9.2/acra-4.9.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
